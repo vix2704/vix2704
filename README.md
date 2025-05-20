@@ -3,9 +3,8 @@
 
 - 🔭 I’m currently working on **projects related to machine learning and data science**
 
-- 📫 How to reach me **vijayamahato27@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: **vijayamahato27@gmail.com**</h3>
 <p align="left">
 </p>
 
