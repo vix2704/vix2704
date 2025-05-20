@@ -1,5 +1,5 @@
 <h1 align="center">Heya , I'm Vijaya Mahato</h1>
-<h3 align="center">An aspiring coder in the field of Computer Science</h3>
+<h3 align="center">An aspiring analyst in the field of Computer Science</h3>
 
 - 🔭 I’m currently working on **projects related to machine learning and data science**
 
